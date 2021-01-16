@@ -3,5 +3,9 @@ body{
     font-size: large;
     font-weight: 400;
     line-height: 2rem;
+<<<<<<< HEAD
     margin: 20px;
+=======
+    padding: 30px;
+>>>>>>> feature-c
 }
